@@ -1,0 +1,1 @@
+There are three boxes, one with apples, one with oranges, and one with both apples and oranges. The boxes have been incorrectly labeled such that no label identifies the actual content of the box it labels. Opening just one box, without looking into the box, you remove one piece of fruit. Looking at the fruit, how can you label all the other boxes correctly?
