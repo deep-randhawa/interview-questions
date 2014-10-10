@@ -1,0 +1,1 @@
+Suppose you have a box of lightbulbs and a 100 story building. You want to determine the highest floor at which the lightbulbs will not break when dropped. How do you approach this while breaking the fewest number of lightbulbs?
